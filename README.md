@@ -4,6 +4,13 @@ A beginner data science project analyzing Titanic passenger data and using Logis
 
 A beginner data science project exploring which passenger variables had the most influence on survival aboard the Titanic and using logistic regression to predict survival.
 
+## Project Notebook
+
+The complete analysis, including data cleaning, exploratory data analysis,
+visualizations, and Logistic Regression modeling, is available in the notebook below.
+
+📓 [View the Project Notebook](./titanic_survival_analysis.ipynb)
+
 ## 1. Problem Statement
 
 The main question I focused on was: **What variable had the most say in passenger survival?**
