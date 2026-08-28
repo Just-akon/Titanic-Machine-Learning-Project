@@ -9,7 +9,7 @@ A beginner data science project exploring which passenger variables had the most
 The complete analysis, including data cleaning, exploratory data analysis,
 visualizations, and Logistic Regression modeling, is available in the notebook below.
 
-📓 [View the Project Notebook](./titanic_survival_analysis.ipynb)
+[View the Project Notebook](./titanic_survival_analysis.ipynb)
 
 ## 1. Problem Statement
 
